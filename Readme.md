@@ -11,6 +11,6 @@ This is a simple Loan Calculator that can be used to calculate the monthly Payme
 ### Links
 Solution URL- https://github.com/Ishita-gup123/Loan-Calculator.git
 
-Live Site URL- http://127.0.0.1:5500/calc.html
+Live Site URL- http://127.0.0.1:5500/
 
 
